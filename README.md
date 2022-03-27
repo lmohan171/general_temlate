@@ -1,2 +1,2 @@
 # general_temlate
-General Template
+General Template for generic purpose
